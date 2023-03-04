@@ -1,6 +1,7 @@
 # Anaemia_Detection
 
 ## HOW IT LOOKS?✨ https://youtube.com/shorts/hpwsPCPGzLQ?feature=share
+[![HOW IT WORKS?✨](https://img.youtube.com/vi/hpwsPCPGzLQ/0.jpg)](https://www.youtube.com/watch?v=hpwsPCPGzLQ)
 This Project would take in 5 inputs which are Gender, Hemoglobin, MCH, MCHC, and MCV and predict if you have Anaemia or not.
 
 Gender: 0 - male, 1 - female
