@@ -1,4 +1,6 @@
 # Anaemia_Detection
+
+# HOW IT LOOKS?✨ https://youtube.com/shorts/hpwsPCPGzLQ?feature=share
 This Project would take in 5 inputs which are Gender, Hemoglobin, MCH, MCHC, and MCV and predict if you have Anaemia or not.
 
 Gender: 0 - male, 1 - female
@@ -10,3 +12,5 @@ MCH: MCH is short for "mean corpuscular hemoglobin." It's the average amount in 
 MCHC: MCHC stands for mean corpuscular hemoglobin concentration. It's a measure of the average concentration of hemoglobin inside a single red blood cell.
 
 MCV: MCV stands for mean corpuscular volume. An MCV blood test measures the average size of your red blood cells.
+
+
